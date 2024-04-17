@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello World!\n";//Chinh sua luc 22:50
 
 }
